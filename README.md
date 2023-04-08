@@ -23,6 +23,6 @@ Usage
     
 Screenshots
 
-    ![image](https://user-images.githubusercontent.com/103834315/230703898-6b09958f-1640-4c35-9716-91efff826002.png)
-    ![image](https://user-images.githubusercontent.com/103834315/230704045-0addab58-8d8c-4f55-86e7-171fcb2ce4aa.png)
-    ![image](https://user-images.githubusercontent.com/103834315/230704218-63c60084-dbe6-4b05-ba5b-41a15670e306.png)
+![image](https://user-images.githubusercontent.com/103834315/230703898-6b09958f-1640-4c35-9716-91efff826002.png)
+![image](https://user-images.githubusercontent.com/103834315/230704045-0addab58-8d8c-4f55-86e7-171fcb2ce4aa.png)
+![image](https://user-images.githubusercontent.com/103834315/230704218-63c60084-dbe6-4b05-ba5b-41a15670e306.png)
